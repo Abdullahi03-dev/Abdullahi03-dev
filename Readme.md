@@ -24,6 +24,6 @@ I care about **clarity, performance, and real-world problem solving**, not just 
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahi03-dev&layout=compact&theme=radical" />
+ <img src="https://github-readme-stats-li8ka885o-abdullahi-abbas-projects.vercel.app/api/top-langs/?username=abdullahi03-dev&layout=compact&theme=radical" />
 
 </p>
