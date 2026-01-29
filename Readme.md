@@ -42,5 +42,5 @@ I care about **clarity, performance, and real-world problem solving** — not ju
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-chi-five-66.vercel.app/api?username=abdullahi03-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats-chi-five-66.vercel.app/api?username=abdullahi03-dev&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
 </p>
