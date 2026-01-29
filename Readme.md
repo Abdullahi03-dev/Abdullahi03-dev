@@ -1,31 +1,31 @@
 <h1 align="center">Hey, I’m Abdullahi Abbas Ribadu</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=treasureuzoma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdullahi03-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## About Me  
-I’m a **Software Engineer** who thrives on building **end-to-end solutions** from pixel-perfect interfaces to rock-solid backend systems.  
-I care about **speed, security, simplicity, scalability, and beautiful user experiences** that actually solve problems.
+I’m a **Frontend Web Developer** focused on building **clean, scalable, and user-friendly web applications**.  
+I care about **clarity, performance, and real-world problem solving**, not just writing code.
 
-- 🖥 Full-stack tools I use: **TypeScript**, **Next.js**, **Tailwind CSS**, **Node.js**, **Golang**  
-- 🛠 Other skills: **Firebase**, **PostgreSQL**, **Framer Motion**, **Redis**  
-- 🌱 Always learning, currently sharpening my **Golang** backend game  
-- 🚀 I don’t just build features... I build **products**.
+- 🖥 Tech I work with: **JavaScript**, **TypeScript**, **React**, **HTML**, **CSS**
+- 🛠 Tools & platforms: **Firebase**, **Git**, **GitHub**, **Vercel**
+- 🌱 Currently improving my **React + TypeScript** depth
+- 🚀 I focus on **projects that actually work**, not just tutorials
 
 ## Let’s Connect  
 <p align='center'>
-  <a href="https://twitter.com/idolodev" target="_blank">
+  <a href="https://twitter.com/abdullahi_ribadu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/treasure-uzoma-6ab8a7273" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:treasureuzoma650@gmail.com" target="_blank">
+  <a href="mailto:abdullahiabbasribadu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahi03-dev&langs_count=6&layout=compact&theme=radical" width="100%">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahi03-dev&langs_count=6&layout=compact&theme=radical" 
+    width="100%" 
+  />
 </p>
