@@ -11,7 +11,7 @@
 I’m a **Frontend Web Developer** focused on building **clean, scalable, and user-friendly web applications**.  
 I care about **clarity, performance, and real-world problem solving** — not just writing code.
 
-- 🖥 **Tech:** JavaScript, TypeScript, React, HTML, CSS  
+- 🖥 **Tech:** JavaScript, TypeScript, React, HTML, CSS , Fast API
 - 🛠 **Tools & Platforms:** Firebase, Git, GitHub, Vercel  
 - 🌱 **Currently:** Deepening my React + TypeScript skills  
 - 🚀 **Mindset:** I build projects that actually work, not just tutorials
