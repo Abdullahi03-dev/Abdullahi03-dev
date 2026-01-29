@@ -27,5 +27,5 @@ I care about **speed, security, simplicity, scalability, and beautiful user expe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreasureUzoma&langs_count=6&layout=compact&theme=radical" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahi03-dev&langs_count=6&layout=compact&theme=radical" width="100%">
 </p>
