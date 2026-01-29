@@ -25,7 +25,7 @@ I care about **clarity, performance, and real-world problem solving**, not just 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahi03-dev&langs_count=6&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahi03-dev&langs_count=6&layout=compact&theme=radical" 
     width="100%" 
   />
 </p>
