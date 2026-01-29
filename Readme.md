@@ -30,7 +30,7 @@ I care about <b>clarity, performance, and real-world problem solving</b> — not
 ## 🧠 Most Used Languages
 <p align="center">
   <img
-    src="https://github-readme-stats-li8ka885o-abdullahi-abbas-projects.vercel.app/api/top-langs/?username=abdullahi03-dev&layout=compact&theme=radical&hide_border=true"
+    src="https://https://github-readme-stats-chi-five-66.vercel.app/api/top-langs/?username=abdullahi03-dev&layout=compact&theme=radical&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -40,7 +40,7 @@ I care about <b>clarity, performance, and real-world problem solving</b> — not
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats-li8ka885o-abdullahi-abbas-projects.vercel.app/api?username=abdullahi03-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+    src="https://https://github-readme-stats-chi-five-66.vercel.app/api?username=abdullahi03-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
     alt="GitHub Stats"
   />
 </p>
