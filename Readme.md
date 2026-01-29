@@ -10,7 +10,7 @@ I care about **clarity, performance, and real-world problem solving**, not just 
 
 - 🖥 Tech I work with: **JavaScript**, **TypeScript**, **React**, **HTML**, **CSS**
 - 🛠 Tools & platforms: **Firebase**, **Git**, **GitHub**, **Vercel**
-- 🌱 Currently improving my **React + TypeScript** depth
+- 🌱 Currently improving my **React + TypeScript** skills
 - 🚀 I focus on **projects that actually work**, not just tutorials
 
 ## Let’s Connect  
@@ -23,7 +23,12 @@ I care about **clarity, performance, and real-world problem solving**, not just 
   </a>
 </p>
 
+## 🧠 Most Used Languages
 <p align="center">
- <img src="https://github-readme-stats-li8ka885o-abdullahi-abbas-projects.vercel.app/api/top-langs/?username=abdullahi03-dev&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-li8ka885o-abdullahi-abbas-projects.vercel.app/api/top-langs/?username=abdullahi03-dev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-li8ka885o-abdullahi-abbas-projects.vercel.app/api?username=abdullahi03-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
