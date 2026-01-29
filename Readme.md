@@ -24,7 +24,6 @@ I care about **clarity, performance, and real-world problem solving**, not just 
 </p>
 
 <p align="center">
-  ## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abdullahi03-dev&layout=compact&theme=radical)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahi03-dev&layout=compact&theme=radical" />
 
 </p>
